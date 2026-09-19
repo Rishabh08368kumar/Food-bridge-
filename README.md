@@ -8,12 +8,12 @@ FoodBridge connects commercial food donors (restaurants, university dining halls
 
 - **🍱 Surplus Food Posting Engine (Donor Portal)**:
   - Rapid posting presets for Restaurant Buffets, Hostel Messes, Corporate Canteens, and Bakeries.
-  - Granular parameters: Weight (kg), meal equivalents, dietary classifications (Vegetarian, Vegan, Halal, Non-Veg, Jain), thermal storage specs (Hot $>60^\circ$C, Chilled $<4^\circ$C, Ambient, Frozen), and strict pickup expiry windows.
+  - Granular parameters: Weight (kg), meal equivalents, dietary classifications (Vegetarian, Vegan, Halal, Non-Veg, Jain), thermal storage specs (, Chilled, Ambient, Frozen), and strict pickup expiry windows.
   - Gemini AI integration for real-time food safety shelf-life recommendations and environmental CO₂ reduction estimates.
 
 - **⏱️ Real-Time Expiry Countdown & Emergency Urgency Alerts**:
   - Live second-by-second countdown timer badges.
-  - Visual urgency tiers: Freshly Prepared ($>3$h), High Priority ($<3$h), and Critical Expiry ($<1$h) with top banner alerts.
+  - Visual urgency tiers: Freshly Prepared (), High Priority (3h), and Critical Expiry ($<1$h) with top banner alerts.
 
 - **🗺️ Real-Time Distribution Route Map (Leaflet)**:
   - Interactive live map displaying donor pickup locations, transit vehicles, and beneficiary NGO centers.
