@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge",
+  "description": "Connecting food donors, verified volunteers, and NGOs to redistribute surplus food and prevent waste.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
